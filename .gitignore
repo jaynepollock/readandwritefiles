@@ -1,1 +1,9 @@
-.vscode
+myvenv/
+
+
+
+
+
+
+
+##to ignore and not track files put them under .gitignore and then write out the name of you virtual enviroment then savemy
